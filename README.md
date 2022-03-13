@@ -6,4 +6,4 @@
 - If you want to hire me check my [Linkedin](https://www.linkedin.com/in/bayev/)
 
 Fun fact:
-I've created google extension [iNikolayev](https://github.com/drugoi/iNikolayev) wich blow up Russian internet and many offices with laugh.
+I've created google extension [iNikolayev](https://github.com/drugoi/iNikolayev) which blows up the Russian internet and many offices with a laugh.
